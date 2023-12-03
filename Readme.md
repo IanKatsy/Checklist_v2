@@ -40,4 +40,4 @@
 - [ ] | Empty Vessel: Blinding Nades + Auto Loading + Danger Zone
 - [ ] | Wilderflight: Spike Grenades + Auto Loading + Vorpal
 - [ ] | Cold Comfort: Impact Casing + Envious Assassin + Bait and Switch
-- [] | Crux Termination IV: Slideshot + Bipod
+- [ ] | Crux Termination IV: Slideshot + Bipod
