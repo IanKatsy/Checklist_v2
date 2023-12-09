@@ -36,7 +36,7 @@
 
 - [ ] | Lingering Dread: Blinding Nades + Auto Loading + Chill Clip
 - [ ] | Ignition Code: Blinding Nades + Slideshot + Danger Zone
-- [ ] | Cartesian Coordinate: Acc Coils + Charge Time MW + Lead from gold + Vorpal
+- [x] | Cartesian Coordinate: Acc Coils + Charge Time MW + Lead from gold + Vorpal // Got slideways vorpal from banshee
 - [ ] | Empty Vessel: Blinding Nades + Auto Loading + Danger Zone
 - [ ] | Wilderflight: Spike Grenades + Auto Loading + Vorpal
 - [ ] | Cold Comfort: Impact Casing + Envious Assassin + Bait and Switch
