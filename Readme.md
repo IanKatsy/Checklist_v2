@@ -8,7 +8,7 @@
 - [ ] | Forbearance: Ambitious Assassin + Chain Reaction
 - [ ] | Ikelos SMG:Threat Detector/Feeding Frenzy + Voltshot/Frenzy
   || Subjunctive: Threat Detector + Voltshot
-- [ ] | Calus Mini Tool: Threat Detector + Incandecent
+- [x] | Calus Mini Tool: Threat Detector + Incandecent
   || No Survivors: Demo + Incandecent
 - [ ] | **_Divinity_**
 - [ ] | Apex Predator: Impact Casing + Reconstuction + Bait And Switch
